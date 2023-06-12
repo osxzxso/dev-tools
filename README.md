@@ -60,10 +60,6 @@ The current tools that I use for a wide range of development projects.
 - [CSS](https://en.wikipedia.org/wiki/CSS): Style sheet language for designing web pages.
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript): Programming language for web development.
 - [Node.js](https://nodejs.org): JavaScript runtime environment.
-- [NVM - Mac](https://github.com/nvm-sh/nvm): Node.js version manager for macOS.
-- [NVM - Windows](https://github.com/coreybutler/nvm-windows): Node.js version manager for Windows.
-- [NPM](https://www.npmjs.com): Package manager for JavaScript.
-- [Express](https://expressjs.com): Web application framework for Node.js.
 - [Python](https://www.python.org): General-purpose dynamic programming language.
 - [Java](https://www.java.com/en): Object-oriented programming language.
 - [JSP](https://en.wikipedia.org/wiki/Jakarta_Server_Pages): JavaServer Pages technology for dynamic web content.
@@ -72,12 +68,16 @@ The current tools that I use for a wide range of development projects.
 - [C](https://en.wikipedia.org/wiki/C_(programming_language)): General-purpose compiled programming language.
 - [SQLite](https://www.sqlite.org): Embedded relational database management system.
 
-## Frameworks
+## Frameworks | Packages | Libraries
+- [NVM - Mac](https://github.com/nvm-sh/nvm): Node.js version manager for macOS.
+- [NVM - Windows](https://github.com/coreybutler/nvm-windows): Node.js version manager for Windows.
+- [NPM](https://www.npmjs.com): Package manager for JavaScript.
 - [React](https://react.dev): JavaScript library for building user interfaces.
 - [Vue](https://vuejs.org): JavaScript framework for building user interfaces.
 - [Bootstrap](https://getbootstrap.com): CSS framework for responsive web design.
 - [Foundation](https://get.foundation): Responsive front-end framework.
 - [Tailwind CSS](https://tailwindcss.com): Utility-first CSS framework.
+- [Express](https://expressjs.com): Web application framework for Node.js.
 
 ## Database | Files
 - [DB Browser for SQLite](https://sqlitebrowser.org): Visual tool to create, design, and edit SQLite databases.
