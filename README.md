@@ -59,7 +59,6 @@ The current tools that I use for a wide range of development projects.
 - [HTML](https://en.wikipedia.org/wiki/HTML): Markup language for creating web pages.
 - [CSS](https://en.wikipedia.org/wiki/CSS): Style sheet language for designing web pages.
 - [JavaScript](https://en.wikipedia.org/wiki/JavaScript): Programming language for web development.
-- [Node.js](https://nodejs.org): JavaScript runtime environment.
 - [Python](https://www.python.org): General-purpose dynamic programming language.
 - [Java](https://www.java.com/en): Object-oriented programming language.
 - [JSP](https://en.wikipedia.org/wiki/Jakarta_Server_Pages): JavaServer Pages technology for dynamic web content.
@@ -69,9 +68,10 @@ The current tools that I use for a wide range of development projects.
 - [SQLite](https://www.sqlite.org): Embedded relational database management system.
 
 ## Frameworks | Packages | Libraries | Managers
+- [Node.js](https://nodejs.org): JavaScript runtime environment.
+- [NPM](https://www.npmjs.com): Package manager for JavaScript.
 - [NVM - Mac](https://github.com/nvm-sh/nvm): Node.js version manager for macOS.
 - [NVM - Windows](https://github.com/coreybutler/nvm-windows): Node.js version manager for Windows.
-- [NPM](https://www.npmjs.com): Package manager for JavaScript.
 - [React](https://react.dev): JavaScript library for building user interfaces.
 - [Vue](https://vuejs.org): JavaScript framework for building user interfaces.
 - [Bootstrap](https://getbootstrap.com): CSS framework for responsive web design.
