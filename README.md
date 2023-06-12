@@ -9,7 +9,7 @@ The current tools that I use for a wide range of development projects.
 - [Fonts](#fonts)
 - [IDE | Environment](#ide--environment)
 - [Languages](#languages)
-- [Frameworks](#frameworks)
+- [Frameworks | Packages | Libraries | Managers](#frameworks--packages--libraries--managers)
 - [Database | Files](#database--files)
 - [Domain Management](#domain-management)
 - [Text Management](#text-management)
@@ -68,7 +68,7 @@ The current tools that I use for a wide range of development projects.
 - [C](https://en.wikipedia.org/wiki/C_(programming_language)): General-purpose compiled programming language.
 - [SQLite](https://www.sqlite.org): Embedded relational database management system.
 
-## Frameworks | Packages | Libraries
+## Frameworks | Packages | Libraries | Managers
 - [NVM - Mac](https://github.com/nvm-sh/nvm): Node.js version manager for macOS.
 - [NVM - Windows](https://github.com/coreybutler/nvm-windows): Node.js version manager for Windows.
 - [NPM](https://www.npmjs.com): Package manager for JavaScript.
