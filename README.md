@@ -28,7 +28,7 @@ The current tools that I use for a wide range of development projects.
 ## Terminal
 - [Windows Terminal Preview](https://apps.microsoft.com/store/detail/windows-terminal-preview/9N8G5RFZ9XK3): A preview version of the Windows Terminal.
 - [Powershell Preview](https://apps.microsoft.com/store/detail/powershell-preview/9P95ZZKTNRN4): A preview version of PowerShell.
-- [Warp](https://www.warp.dev): A cloud-based development environment.
+- [Warp](https://www.warp.dev): A rust-based terminal for Mac.
 - [GitHub Copilot for CLI](https://githubnext.com/projects/copilot-cli): GitHub Copilot for the command-line interface.
 
 ## Fonts
@@ -45,7 +45,7 @@ The current tools that I use for a wide range of development projects.
 - [Android Studio](https://developer.android.com/studio): Integrated development environment for Android app development.
 - [Replit](https://replit.com): Online coding environment and community.
 - [MARS](http://courses.missouristate.edu/kenvollmar/mars): MIPS assembly language simulator.
-- [Xcode](https://developer.apple.com/xcode): Integrated development environment for macOS and iOS apps.
+- [Xcode](https://developer.apple.com/xcode): Integrated development environment for the Apple ecosystem.
 - [Swift Playgrounds](https://www.apple.com/swift/playgrounds): Interactive coding environment to learn Swift programming.
 - [Shortcuts](https://apps.apple.com/us/app/shortcuts/id915249334): Automate tasks on iOS devices.
 - [VMware Fusion](https://www.vmware.com/products/fusion.html): Virtualization software for running multiple operating systems on a Mac.
@@ -64,12 +64,12 @@ The current tools that I use for a wide range of development projects.
 - [NVM - Windows](https://github.com/coreybutler/nvm-windows): Node.js version manager for Windows.
 - [NPM](https://www.npmjs.com): Package manager for JavaScript.
 - [Express](https://expressjs.com): Web application framework for Node.js.
-- [Python](https://www.python.org): General-purpose programming language.
+- [Python](https://www.python.org): General-purpose dynamic programming language.
 - [Java](https://www.java.com/en): Object-oriented programming language.
 - [JSP](https://en.wikipedia.org/wiki/Jakarta_Server_Pages): JavaServer Pages technology for dynamic web content.
 - [R](https://cran.r-project.org): Programming language for statistical computing and graphics.
-- [Swift](https://developer.apple.com/swift): Programming language for macOS, iOS, and other Apple platforms.
-- [C](https://en.wikipedia.org/wiki/C_(programming_language)): General-purpose programming language.
+- [Swift](https://developer.apple.com/swift): Programming language for the Apple ecosystem.
+- [C](https://en.wikipedia.org/wiki/C_(programming_language)): General-purpose compiled programming language.
 - [SQLite](https://www.sqlite.org): Embedded relational database management system.
 
 ## Frameworks
@@ -99,14 +99,14 @@ The current tools that I use for a wide range of development projects.
 - [GIMP](https://www.gimp.org): Open-source image editor.
 - [Pixel Studio](https://apps.microsoft.com/store/detail/pixel-studio/9P7XS7VH1R3J): Image editing and animation tool.
 - [Dall·E](https://openai.com/dall-e-2): AI model for generating images from textual descriptions.
-- [Midjourney](https://www.midjourney.com): Collection of free design resources.
+- [Midjourney](https://www.midjourney.com): AI model for generating images using various modalities.
 - [NVIDIA Canvas](https://www.nvidia.com/en-us/studio/canvas): AI-powered drawing tool.
 
 ## Audio Management
 - [Whisper](https://openai.com/research/whisper): Automatic speech recognition system.
 - [Audacity](https://www.audacityteam.org): Open-source audio editor and recorder.
 - [SuperCollider](https://supercollider.github.io): Environment and programming language for real-time audio synthesis and algorithmic composition.
-- [ElevenLabs](https://beta.elevenlabs.io): Real-time collaborative music production platform.
+- [ElevenLabs](https://beta.elevenlabs.io): Text-to-Voice service with cloned voices.
 - [SoftVC VITS](https://github.com/voicepaw/so-vits-svc-fork): Voice conversion and synthesis toolkit.
 - [Demucs](https://github.com/facebookresearch/demucs): Deep neural network-based music source separation.
 - [Spleeter](https://github.com/deezer/spleeter): Music source separation library.
@@ -117,7 +117,7 @@ The current tools that I use for a wide range of development projects.
 ## LLM
 - [ChatGPT](https://chat.openai.com): Chat with the OpenAI language model.
 - [Chatbot UI - Local](https://github.com/mckaywrigley/chatbot-ui): Local chatbot user interface.
-- [Langchain](https://github.com/hwchase17/langchain): Language generation and understanding using GPT models.
+- [Langchain](https://github.com/hwchase17/langchain): Frameowrk to chain components for advanced LLM use cases.
 
 ## Version Control
 - [Git](https://git-scm.com): Distributed version control system.
@@ -145,7 +145,7 @@ The current tools that I use for a wide range of development projects.
 - [TinyPNG](https://tinypng.com): Compress and optimize PNG images.
 - [Unsplash](https://unsplash.com): Free high-resolution photos.
 - [Undraw](https://undraw.co/illustrations): Open-source illustrations for design projects.
-- [Bigheads](https://bigheads.io): Generate customizable cartoon avatars.
+- [Bigheads](https://bigheads.io): Generate randomized cartoon avatars.
 - [Tabler](https://tablericons.com): Open-source icons and UI components.
 - [Lorem Ipsum](https://loremipsum.io): Generate placeholder text.
 - [Lorem Picsum](https://picsum.photos): Generate random placeholder images.
@@ -156,15 +156,14 @@ The current tools that I use for a wide range of development projects.
 - [Remove.bg](https://www.remove.bg): Automatically remove backgrounds from images.
 - [Dummy Image](https://dummyimage.com): Generate placeholder images with custom dimensions and colors.
 - [Illustration libraries](https://www.lapa.ninja/blog/free-illustrations-library-for-your-project): Collection of free illustration libraries for design projects.
-- [Stripe](https://stripe.com): Online payment processing platform.
-- [Randomthing.me](http://www.randomthing.me): Generate random names, numbers, and other things.
+- [Randomthing.me](http://www.randomthing.me): Generate random names, addresses, and business names.
 - [OBS](https://obsproject.com): Open-source live streaming and recording software.
 - [Loom](https://www.loom.com): Video messaging and screen recording platform.
 - [Previewed](https://previewed.app): Generate realistic mockups for websites and apps.
 
 ## Desktop Utility
 - [Stardock Fences](https://www.stardock.com/products/fences): Desktop organization tool for Windows.
-- [Rainmeter](https://www.rainmeter.net): Customizable desktop customization tool for Windows.
+- [Rainmeter](https://www.rainmeter.net): Customizable desktop widgets for Windows.
 - [Snipping Tool](https://apps.microsoft.com/store/detail/snipping-tool/9MZ95KL8MR0L): Screen capturing tool for Windows.
 - [Amphetamine](https://apps.apple.com/us/app/amphetamine/id937984704): Keep your Mac awake and prevent sleep.
 - [xbar](https://xbarapp.com): Menubar app for macOS with custom scripts and plugins.
