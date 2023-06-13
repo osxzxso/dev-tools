@@ -103,7 +103,7 @@ The current tools that I use for a wide range of development projects.
 - [NVIDIA Canvas](https://www.nvidia.com/en-us/studio/canvas): AI-powered drawing tool.
 
 ## Audio Management
-- [Whisper](https://openai.com/research/whisper): Automatic speech recognition system.
+- [Whisper](https://openai.com/research/whisper): Voice-to-Text transcription service.
 - [Audacity](https://www.audacityteam.org): Open-source audio editor and recorder.
 - [SuperCollider](https://supercollider.github.io): Environment and programming language for real-time audio synthesis and algorithmic composition.
 - [ElevenLabs](https://beta.elevenlabs.io): Text-to-Voice service with cloned voices.
